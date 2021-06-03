@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.6.18134.0%0D%0A%0D%0A00:00:01.792%20--%3E%2000:00:09.386%0D%0AHCC%E2%80%99s%20Assistive%20Technology%20Office%20provides%20additional%20tools%20to%20assist%20deaf%20students%20in%20their%20learning%0D%0A%0D%0A"}')

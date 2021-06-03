@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.6.18134.0%0D%0A%0D%0A00:00:00.001%20--%3E%2000:00:06.650%0D%0AThis%20module%20contains%20videos%20where%20deaf%20people%20discuss%20their%20own%20experiences%20in%20the%20classroom.%0D%0A%0D%0A"}')

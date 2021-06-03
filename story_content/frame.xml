@@ -1107,51 +1107,51 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns10111101101">
       <string id="acc_active">active</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_in">Search in:</string>
-      <string id="acc_search_input">search</string>
-      <string id="search">Search...</string>
-      <string id="restart">Restart</string>
-      <string id="acc_resources">resources</string>
-      <string id="resources">Resources</string>
-      <string id="acc_replay">replay</string>
-      <string id="question_list">Question List</string>
-      <string id="resume">Resume</string>
-      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
-      <string id="acc_volume">volume</string>
-      <string id="acc_submit">submit</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="acc_previous">previous</string>
-      <string id="prev">PREV</string>
-      <string id="closed_captions">Captions</string>
-      <string id="terms">Terms</string>
-      <string id="glossary">Glossary</string>
-      <string id="acc_definition">definition</string>
-      <string id="definition">Definition</string>
-      <string id="acc_finish">finish</string>
-      <string id="finish">FINISH</string>
-      <string id="filter">Filter</string>
-      <string id="exit">Exit</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="continue">Continue</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
-      <string id="close">Close</string>
-      <string id="clear">Clear and return to menu</string>
       <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
       <string id="transcript">Notes</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="send_an_email">Send an email</string>
+      <string id="closed_captions">Captions</string>
       <string id="acc_pause">pause</string>
       <string id="acc_play">play</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="acc_next">next</string>
-      <string id="next">NEXT</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="outline">Menu</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1180,18 +1180,16 @@
         <slidelink slideid="_player.6nLID7LRDJP" displaytext="Technology" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6nLID7LRDJP.5queF5Ri0Nh" displaytext="Technology" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6UF6bAPgEkx" displaytext="Transcription" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6lEF2bWOscC" displaytext="Assistive Technology" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5naYVTenmBI" displaytext="Captioning" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5tmAhQytQeB" displaytext="Google Drive" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6leZsLrMMVC" displaytext="Canvas" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5b07uCQYICn" displaytext="Kahoot" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6leZsLrMMVC" displaytext="Canvas" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.69Dc6bWKmC5" displaytext="Google Slides/PowerPoint	" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6TM8WKOQRKI" displaytext="VoiceThread" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6cTDTZbKS5X" displaytext="Zoom" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5Vj3vcavUkl" displaytext="YouTube" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5r8Phf0V2Oa" displaytext="PowerPoint" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6FxSlS5fhrE" displaytext="Mediasite" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5dHfskuFINC" displaytext="Zoom old" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.65OUAFIVYiI" displaytext="Office Hours" expand="true" type="slide">
@@ -1218,8 +1216,8 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/6UMvRDqsoQg.png" title="Captioning Request form" />
-      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/6TYnDf3HwM6.png" title="Working with Interpreters in the Classroom" />
+      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/5kHZvJlBzL5.png" title="Captioning Request form" />
+      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/5VwRtg2HDt0.png" title="Working with Interpreters in the Classroom" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1247,14 +1245,70 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6nLID7LRDJP.6cTDTZbKS5X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6nLID7LRDJP.6lEF2bWOscC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="HCC’s Assistive Technology Office provides additional tools to assist deaf students in their learning" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5tmAhQytQeB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Even if your student does not have a note-taker in their accommodation letter, directing students to take notes on Google Docs could provide additional support for that student." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5b07uCQYICn" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The closed captioning button on YouTube videos is not available when they are played within a Kahoot quiz.  You can address this by opening the video in a separate window." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.6leZsLrMMVC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If your student’s accommodation letter requires it, any media on your Canvas course will need to be captioned before the semester begins" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.69Dc6bWKmC5" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" /&gt;
+      &lt;Span Text="Google Slides can display auto-captions while you are giving a live (not previously recorded) presentation.  PowerPoint presentations with embedded audio can be professionally captioned if you provide them to Instructional Media in advance." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5rUxxT4RsM1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Auto-captioning is available for Google Slides, but it will not fulfill the 99% accuracy requirement included in some students’ accommodation letters." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.6TM8WKOQRKI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If you have a deaf student in your class, have students type their responses on VoiceThread rather than use audio." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.6cTDTZbKS5X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You can support your deaf student on Zoom by making sure the interpreter or interpreters’ video is large enough on their screen.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Span Text="Not all deaf or hard of hearing students use interpreters.  Some use captions.  If your student’s accommodation letter allows for automatically generated captions - ones that are less than 99% accurate, using Zoom’s live transcript feature is an option." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6nLID7LRDJP.5Vj3vcavUkl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6nLID7LRDJP.5Vj3vcavUkl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
@@ -1266,7 +1320,21 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6nLID7LRDJP.5dHfskuFINC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6nLID7LRDJP.5r8Phf0V2Oa" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If your student requires captions with 99% accuracy, request to have PowerPoints captioned by Instructional Media." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.6FxSlS5fhrE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Mediasite is the platform HCC uses to host instructors’ videos.  It enables your videos to be captioned by Instructional Media." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5dHfskuFINC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" /&gt;
@@ -1274,14 +1342,14 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="65OUAFIVYiI.5wMqzJkYCET" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="65OUAFIVYiI.5wMqzJkYCET" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="You can support deaf students during office hours or individual conferences by following these tips. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6FJXaFRKcH5.64KlWUc29e7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6FJXaFRKcH5.64KlWUc29e7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style Justification="Center" /&gt;
@@ -1289,7 +1357,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6FJXaFRKcH5.5bbvKh5vXAP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6FJXaFRKcH5.5bbvKh5vXAP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
@@ -1301,14 +1369,21 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5dwb5RtUbWY.6DhDbA4KTYD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6FJXaFRKcH5.6Le6d5T0JSh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your deaf student’s accommodation letter may specify that they require a note taker." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwb5RtUbWY.6DhDbA4KTYD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Click to explore how to support deaf students in different class settings" /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5dwb5RtUbWY.6hsUXa1ZrP3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="5dwb5RtUbWY.6hsUXa1ZrP3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Center"&gt;
@@ -1316,13 +1391,11 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="This module contains videos where deaf people discuss their own experiences in the classroom."&gt;
-        &lt;Style FontFamily="Barlow" FontSize="18" /&gt;
-      &lt;/Span&gt;
+      &lt;Span Text="The Lecture module discusses supports for when you teach in a whole class format." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5dwb5RtUbWY.5v6raCJegCq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="5dwb5RtUbWY.5v6raCJegCq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
