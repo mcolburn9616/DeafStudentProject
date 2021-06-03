@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00001100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111101101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
-    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
-    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="npnxnanbnsnfns00001100101" string_table="npnxnanbnsnfns00001100101" />
+    <layout name="npnxnanbsnfns10111101101" font="Open Sans" controllayout="npnxnanbsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
+    <layout name="pxabnsnfns10111101101" font="Open Sans" controllayout="pxabnsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
+    <layout name="npxnabnsnfns10111101101" font="Open Sans" controllayout="npxnabnsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
+    <layout name="npnxnanbnsnfns10111101101" font="Open Sans" controllayout="npnxnanbnsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
+    <layout name="pxabnsnfns10111101100" font="Open Sans" controllayout="pxabnsnfns10111101100" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -30,7 +30,7 @@
               <listitem name="resources" value="true" group="linkright" />
               <listitem name="outline" value="true" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
-              <listitem name="transcript" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
             </listitems>
           </optionlist>
           <option name="time_enabled" value="false">
@@ -58,14 +58,14 @@
       <optiongroup name="controls">
         <options>
           <option name="volume" value="true" />
-          <option name="seekbar" value="false">
+          <option name="seekbar" value="true">
             <options>
               <option name="readonly" value="false" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
-          <option name="pauseplay" value="false" />
-          <option name="replay" value="false" />
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
           <option name="search" value="false" />
           <option name="closed_captions" value="true">
             <options>
@@ -82,11 +82,11 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00001100101">
+    <control_layout name="npnxnanbsnfns10111101101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -97,7 +97,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -105,11 +105,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00001100101">
+    <control_layout name="pxabnsnfns10111101101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -120,7 +120,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -128,11 +128,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00001100101">
+    <control_layout name="npxnabnsnfns10111101101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="true" />
@@ -143,7 +143,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -151,11 +151,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00001100101">
+    <control_layout name="npnxnanbnsnfns10111101101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -166,7 +166,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -174,11 +174,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00001100100">
+    <control_layout name="pxabnsnfns10111101100">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -189,7 +189,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
+      <control name="transcript" enabled="true" />
       <control name="outline" enabled="true">
         <controls>
           <control name="search" enabled="false" />
@@ -199,7 +199,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns00001100101">
+    <colorscheme name="npnxnanbnsnfns10111101101">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1105,59 +1105,64 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns00001100101">
+    <string_table name="npnxnanbnsnfns10111101101">
       <string id="acc_active">active</string>
-      <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
-      <string id="continue">Continue</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="exit">Exit</string>
-      <string id="filter">Filter</string>
-      <string id="finish">FINISH</string>
-      <string id="acc_finish">finish</string>
-      <string id="definition">Definition</string>
-      <string id="acc_definition">definition</string>
-      <string id="glossary">Glossary</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_in">Search in:</string>
+      <string id="acc_search_input">search</string>
+      <string id="search">Search...</string>
+      <string id="restart">Restart</string>
+      <string id="acc_resources">resources</string>
+      <string id="resources">Resources</string>
+      <string id="acc_replay">replay</string>
+      <string id="question_list">Question List</string>
+      <string id="resume">Resume</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="acc_volume">volume</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="acc_previous">previous</string>
+      <string id="prev">PREV</string>
+      <string id="closed_captions">Captions</string>
       <string id="terms">Terms</string>
-      <string id="outline">Menu</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="next">NEXT</string>
-      <string id="acc_next">next</string>
-      <string id="transcript_chk">Notes</string>
+      <string id="glossary">Glossary</string>
+      <string id="acc_definition">definition</string>
+      <string id="definition">Definition</string>
+      <string id="acc_finish">finish</string>
+      <string id="finish">FINISH</string>
+      <string id="filter">Filter</string>
+      <string id="exit">Exit</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="continue">Continue</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="close">Close</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="check_include">Check to include</string>
       <string id="transcript">Notes</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="closed_captions">Captions</string>
+      <string id="send_an_email">Send an email</string>
       <string id="acc_pause">pause</string>
       <string id="acc_play">play</string>
-      <string id="send_an_email">Send an email</string>
-      <string id="prev">PREV</string>
-      <string id="acc_previous">previous</string>
-      <string id="question_list">Question List</string>
-      <string id="acc_replay">replay</string>
-      <string id="resources">Resources</string>
-      <string id="acc_resources">resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search...</string>
-      <string id="acc_search_input">search</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_volume">volume</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="acc_next">next</string>
+      <string id="next">NEXT</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="outline">Menu</string>
     </string_table>
   </string_tables>
   <fonts>
     <font name="Open Sans">
       <files>
         <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Barlow">
+      <files>
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1169,7 +1174,6 @@
         <slidelink slideid="_player.64oc0sTeawV" displaytext="Deaf Student Teaching Tips" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.64oc0sTeawV.5oHv3JN9wTi" displaytext="Start" expand="false" type="slide" />
-            <slidelink slideid="_player.64oc0sTeawV.6XlZ4dEe2oT" displaytext="Start" expand="false" type="slide" />
             <slidelink slideid="_player.64oc0sTeawV.5rqlyvgEo3x" displaytext="Home" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1179,12 +1183,15 @@
             <slidelink slideid="_player.6nLID7LRDJP.6UF6bAPgEkx" displaytext="Transcription" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6lEF2bWOscC" displaytext="Assistive Technology" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5naYVTenmBI" displaytext="Captioning" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5tmAhQytQeB" displaytext="Google Drive/One Drive" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5tmAhQytQeB" displaytext="Google Drive" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6leZsLrMMVC" displaytext="Canvas" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5b07uCQYICn" displaytext="Kahoot" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.69Dc6bWKmC5" displaytext="Google Slides/PowerPoint	" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6TM8WKOQRKI" displaytext="VoiceThread" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5dHfskuFINC" displaytext="Zoom" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5Vj3vcavUkl" displaytext="YouTube" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5r8Phf0V2Oa" displaytext="PowerPoint" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6FxSlS5fhrE" displaytext="Mediasite" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5dHfskuFINC" displaytext="Zoom old" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.65OUAFIVYiI" displaytext="Office Hours" expand="true" type="slide">
@@ -1211,10 +1218,123 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/68PdlbOWkT8.png" title="Captioning Request form" />
-      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/5ayH2BOw3KB.png" title="Working with Interpreters in the Classroom" />
+      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/6UMvRDqsoQg.png" title="Captioning Request form" />
+      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/6TYnDf3HwM6.png" title="Working with Interpreters in the Classroom" />
     </resources>
   </resource_data>
-  <transcript_data />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="64oc0sTeawV.5oHv3JN9wTi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Welcome to Deaf Student Teaching Tips.  If you are accessing this resource, you probably just learned you have a deaf student in your class.  You may be asking yourself:  “what changes do I need to make to my teaching in order to support this student?” Click Start to find specific strategies to support your student." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="64oc0sTeawV.5rqlyvgEo3x" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Hover over a category to see a summary of its contents.  Click it to explore it further.  Alternatively, you may use the Menu to the left to jump to a certain slide."&gt;
+        &lt;Style FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5queF5Ri0Nh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Learn how to modify your use of various teaching tools by clicking on the categories." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.6cTDTZbKS5X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Not all deaf or hard of hearing students use interpreters.  Some use captions.  If your student’s accommodation letter allows for automatically generated captions - ones that are less than 99% accurate, using Zoom’s live transcript feature is an option." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5Vj3vcavUkl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Most YouTube videos are not professionally captioned and do not fulfill the 99% accuracy requirement that may appear on your student’s accommodation letter.  If you find YouTube videos that you want to use in instruction, complete the captioning request form to have them professionally captioned."&gt;
+        &lt;Style FontFamily="Barlow" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6nLID7LRDJP.5dHfskuFINC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" /&gt;
+      &lt;Span Text="Help the deaf student by highlighting the view of their interpreter(s) and the instructor." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="65OUAFIVYiI.5wMqzJkYCET" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You can support deaf students during office hours or individual conferences by following these tips. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6FJXaFRKcH5.64KlWUc29e7" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Center" /&gt;
+      &lt;Span Text="Service providers are individuals who provide assistance to students with disabilities in the classroom" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6FJXaFRKcH5.5bbvKh5vXAP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="It is not uncommon for a student to be assigned two interpreters, depending on class length.  Not all deaf students use an interpreter." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwb5RtUbWY.6DhDbA4KTYD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click to explore how to support deaf students in different class settings" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwb5RtUbWY.6hsUXa1ZrP3" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Center"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="This module contains videos where deaf people discuss their own experiences in the classroom."&gt;
+        &lt;Style FontFamily="Barlow" FontSize="18" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5dwb5RtUbWY.5v6raCJegCq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Plain" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The Group Work module discusses supports for when you split students into groups" /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
   <glossary_data />
 </bwFrame>
