@@ -1180,21 +1180,15 @@
         <slidelink slideid="_player.6nLID7LRDJP" displaytext="Technology" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6nLID7LRDJP.5queF5Ri0Nh" displaytext="Technology" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6lEF2bWOscC" displaytext="Assistive Technology" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5tmAhQytQeB" displaytext="Google Drive" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5b07uCQYICn" displaytext="Kahoot" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6leZsLrMMVC" displaytext="Canvas" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6TM8WKOQRKI" displaytext="VoiceThread" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5r8Phf0V2Oa" displaytext="PowerPoint" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.5rUxxT4RsM1" displaytext="Google Slides" expand="false" type="slide" />
-            <slidelink slideid="_player.6nLID7LRDJP.6cTDTZbKS5X" displaytext="Zoom" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.5Vj3vcavUkl" displaytext="YouTube" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6cTDTZbKS5X" displaytext="Zoom" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6TM8WKOQRKI" displaytext="VoiceThread" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5tmAhQytQeB" displaytext="Google Drive" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6leZsLrMMVC" displaytext="Canvas" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.5b07uCQYICn" displaytext="Kahoot" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.69Dc6bWKmC5" displaytext="Google Slides/PowerPoint	" expand="false" type="slide" />
             <slidelink slideid="_player.6nLID7LRDJP.6FxSlS5fhrE" displaytext="Mediasite" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.65OUAFIVYiI" displaytext="Office Hours" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.65OUAFIVYiI.5wMqzJkYCET" displaytext="Office Hours" expand="false" type="slide" />
+            <slidelink slideid="_player.6nLID7LRDJP.6lEF2bWOscC" displaytext="Assistive Technology" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6FJXaFRKcH5" displaytext="Interpreters" expand="true" type="slide">
@@ -1211,13 +1205,18 @@
             <slidelink slideid="_player.5dwb5RtUbWY.5v6raCJegCq" displaytext="Group Work" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.65OUAFIVYiI" displaytext="Office Hours" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.65OUAFIVYiI.5wMqzJkYCET" displaytext="Office Hours" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/6H6fKMZIgII.png" title="Captioning Request form" />
-      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/6HRFXOX8YPS.png" title="Working with Interpreters in the Classroom" />
+      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/6aigSrUmnWf.png" title="Captioning Request form" />
+      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/61stYLh1D1W.png" title="Working with Interpreters in the Classroom" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1233,7 +1232,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Hover over a category to see a summary of its contents.  Click it to explore it further.  Alternatively, you may use the Menu to the left to jump to a certain slide."&gt;
-        &lt;Style FontSize="18" /&gt;
+        &lt;Style FontSize="9" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
@@ -1298,13 +1297,31 @@
       <slidetranscript slideid="6nLID7LRDJP.6cTDTZbKS5X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Span Text="You can support your deaf student on Zoom by making sure the interpreter or interpreters’ video is large enough on their screen.&amp;#xA;" /&gt;
+      &lt;Span Text="Display Interpreter: You can support your deaf student on Zoom by making sure the interpreter or interpreters’ video is large enough on their screen.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Span Text="&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Span Text="Not all deaf or hard of hearing students use interpreters.  Some use captions.  If your student’s accommodation letter allows for automatically generated captions - ones that are less than 99% accurate, using Zoom’s live transcript feature is an option." /&gt;
+      &lt;Span Text="Breakout Rooms:  In addition to putting the interpreters in the same breakout room as your deaf student, you’ll need to enable multi-pinning for that student so that they can highlight their view of multiple interpreters.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Live Transcript: Not all deaf or hard of hearing students use interpreters.  Some use captions.  If your student’s accommodation letter allows for automatically generated captions - ones that are less than 99% accurate, using Zoom’s live transcript feature is an option.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Visual Accessibility:  Accessibility for your deaf student on Zoom is not limited to interpreters or a live transcript; ensuring that others turn on their cameras and have good lighting will enable a deaf student to read facial cues that add to understanding.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Tips:  When teaching via Zoom, you should follow the same interpreter norms that you would in person." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -1314,7 +1331,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Multiple" LineSpacing="21" SpacingBefore="0" SpacingAfter="8"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Most YouTube videos are not professionally captioned and do not fulfill the 99% accuracy requirement that may appear on your student’s accommodation letter.  If you find YouTube videos that you want to use in instruction, complete the captioning request form to have them professionally captioned."&gt;
+      &lt;Span Text="Most YouTube videos are not professionally captioned and do not fulfill the 99% accuracy requirement that may appear on your student’s accommodation letter.  If you find YouTube videos that you want to use in instruction and that are not professionally captioned, complete the captioning request form to have them professionally captioned."&gt;
         &lt;Style FontFamily="Barlow" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1357,7 +1374,14 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6FJXaFRKcH5.5bbvKh5vXAP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="6FJXaFRKcH5.6Le6d5T0JSh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Your deaf student’s accommodation letter may specify that they require a note taker." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="6FJXaFRKcH5.5bbvKh5vXAP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style LeadingMargin="0" FirstLineMargin="0"&gt;
@@ -1366,13 +1390,6 @@
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
       &lt;Span Text="It is not uncommon for a student to be assigned two interpreters, depending on class length.  Not all deaf students use an interpreter." /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="6FJXaFRKcH5.6Le6d5T0JSh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Your deaf student’s accommodation letter may specify that they require a note taker." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
