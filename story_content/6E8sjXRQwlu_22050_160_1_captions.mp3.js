@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.6.18134.0%0D%0A%0D%0A00:00:00.048%20--%3E%2000:00:03.874%0D%0AStarting%20a%20dialogue%20will%20enable%20the%20student%20to%20share%20their%20needs.%0D%0A%0D%0A"}')
