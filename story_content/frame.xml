@@ -1215,8 +1215,8 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/6qdKy4udmBd.png" title="Captioning Request form" />
-      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/6lKmFrUa0Ap.png" title="Working with Interpreters in the Classroom" />
+      <resource url="story_content/external_files/instructional_media_-_caption_and_transcription_services_form_updated (2).docx" image="story_content/5Ws6VYT7Vuc.png" title="Captioning Request form" />
+      <resource url="story_content/external_files/Working with Interpreters in the Classroom.pdf" image="story_content/6459AelQrE9.png" title="Working with Interpreters in the Classroom" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1247,7 +1247,25 @@
       <slidetranscript slideid="6nLID7LRDJP.6lEF2bWOscC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Span Text="HCC’s Assistive Technology Office provides additional tools to assist deaf students in their learning" /&gt;
+      &lt;Span Text="HCC’s Assistive Technology Office provides additional tools to assist deaf students in their learning&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Smart Stethoscopes:  Smart Stethoscopes allow a deaf student to see a heart beat.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Smart Microphones: Smart Microphones amplify a professor’s voice for a hard-of-hearing student&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Otter.AI: Otter.AI is a Smartphone app that will generate a transcript from class and then later correct it using AI." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
